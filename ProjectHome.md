@@ -1,0 +1,1 @@
+Python library for working with C-like bit structures
